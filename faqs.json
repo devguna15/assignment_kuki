@@ -1,0 +1,302 @@
+[
+  {
+    "Customer_Question": "I want a versatile handbag under ₹3,000 that works for both office and weekend brunches. What should I look for?",
+    "Detailed_Response": "Lavie Faroe Structured Tote Bag has an internal organiser with spacious compartments and comes in neutral shades like tan/black and a detachable strap.It is water resistant and made of vegan leather.",
+    "Product_Category": "Accessories",
+    "Product_name": "Handbags & Wallets"
+  },
+  {
+    "Customer_Question": "Can you recommend sunglasses that suit oval-shaped faces and offer full UV protection under ₹2,000?",
+    "Detailed_Response": "Fastrack UV-Protected Round Sunglasses.Oval faces are normally balanced with round frames and polycarbonate lenses provide 100% UV protection.Its best to choose anti-glare coated glasses which makes them perfect for daily outdoor use.",
+    "Product_Category": "Accessories",
+    "Product_name": "Sunglasses & Eyewear"
+  },
+  {
+    "Customer_Question": "I’ve bought a layered necklace from Pipa Bella. How do I store it so it doesn’t tangle or tarnish quickly?",
+    "Detailed_Response": "It should normally be stored flat or hanged individually in a soft-lined jewellery pouch.Exposure to perfumes/moisture must be strictly avoided ",
+    "Product_Category": "Accessories",
+    "Product_name": "Jewellery & Imitation"
+  },
+  {
+    "Customer_Question": "I received a watch that’s slightly loose. Can I adjust the strap at home or do I need to visit a service center?",
+    "Detailed_Response": "You can viist a Titan service centre for free adjustment within warranty time period  or buy a link remover online to adjust the straps.",
+    "Product_Category": "Accessories",
+    "Product_name": "watches"
+  },
+  {
+    "Customer_Question": "Which belt is better for someone who switches between formal and casual wear? I want something reversible and long-lasting.",
+    "Detailed_Response": "Belt has a two-in-one buckle mechanism and is made of a durable synthetic leather with a clean polished look offering dual tone finish on each side.",
+    "Product_Category": "Accessories",
+    "Product_name": "Belts"
+  },
+  {
+    "Customer_Question": "I need a compact sling bag that’s anti-theft and ideal for public transport. Which one should I pick and why?",
+    "Detailed_Response": "The bag offers RFID-blocking pockets,hidden zippers and a USP port . It is ideal for travelling in metros,buses and airports.",
+    "Product_Category": "Accessories",
+    "Product_name": "Travel & Utility"
+  },
+  {
+    "Customer_Question": "How do I wash a rayon dress without shrinking it?",
+    "Detailed_Response": "Avoid machine drying and use cold water on a gentle cycle.",
+    "Product_Category": "Apparel",
+    "Product_name": "Dresses (Women)"
+  },
+  {
+    "Customer_Question": "What shirts work best for humid Indian summers?",
+    "Detailed_Response": "Shirt material that is ideal for sweaty days is Linen as it is breathable and light ",
+    "Product_Category": "Apparel",
+    "Product_name": "Shirts (Men)"
+  },
+  {
+    "Customer_Question": "Should I choose stretch or rigid denim for daily wear?",
+    "Detailed_Response": "Stretch normally gives comfort so its good to pick stretchable denims.",
+    "Product_Category": "Apparel",
+    "Product_name": "Jeans (Unisex)"
+  },
+  {
+    "Customer_Question": "How to keep colors vibrant in printed cotton kurtas?",
+    "Detailed_Response": "To keep the colors vibrant use mild detergents, avoid direct sunlight and wash inside-out",
+    "Product_Category": "Apparel",
+    "Product_name": "Kurtas (Women)"
+  },
+  {
+    "Customer_Question": "What kind of jacket suits both casual and semi-formal looks?",
+    "Detailed_Response": "Jeans and Chinoes pair well with neutral bomber styles.",
+    "Product_Category": "Apparel",
+    "Product_name": "Jackets"
+  },
+  {
+    "Customer_Question": "Should I buy compression leggings or regular tights for daily workouts?",
+    "Detailed_Response": "If you are normally used to light training or yoga your preference shuld be regular tights or you can go for compression tights which are normally used for intense workouts for boosting blood flow.",
+    "Product_Category": "Apparel",
+    "Product_name": "Activewear / Gymwear (Unisex)"
+  },
+  {
+    "Customer_Question": "What type of microwave is best for baking and grilling?",
+    "Detailed_Response": "Baking , grilling and reheating  are best supported by a convection microwave.",
+    "Product_Category": "Appliances",
+    "Product_name": "Kitchen – Microwave Ovens"
+  },
+  {
+    "Customer_Question": "Which washing machine is best for small families?",
+    "Detailed_Response": "For a family of 2-3 people a 6kg front load would be ideal. It will also save water and detergent",
+    "Product_Category": "Appliances",
+    "Product_name": "Home – Washing Machines"
+  },
+  {
+    "Customer_Question": "Should I choose 3-star or 5-star AC for better savings?",
+    "Detailed_Response": "For long term use and energy efficiency 5-star AC is a good choice ",
+    "Product_Category": "Appliances",
+    "Product_name": "Air Conditioners"
+  },
+  {
+    "Customer_Question": "Glass or steel kettle—which is safer and more durable?",
+    "Detailed_Response": "Though glass looks stylish and classy , steel lasts longer.",
+    "Product_Category": "Appliances",
+    "Product_name": "Kitchen – Electric Kettles"
+  },
+  {
+    "Customer_Question": "How often should I clean the filters for best suction?",
+    "Detailed_Response": "Normally filters should be washed every month and should be dried for 24hrs before resuse",
+    "Product_Category": "Appliances",
+    "Product_name": "Utility – Vacuum Cleaners"
+  },
+  {
+    "Customer_Question": "When should I clean or replace AC filters?",
+    "Detailed_Response": "AC filters should be cleaned every 15-20 days for best airflow during peak usage ",
+    "Product_Category": "Appliances",
+    "Product_name": "Air Conditioners"
+  },
+  {
+    "Customer_Question": "Which type of sofa is best for small living rooms?",
+    "Detailed_Response": "3 seater sofa with sleek arms and legs creates more space ",
+    "Product_Category": "Furniture",
+    "Product_name": "Sofas"
+  },
+  {
+    "Customer_Question": "Which bed type is best for storage in compact bedrooms?",
+    "Detailed_Response": "For compact bedrooms you should normally choose hydraulic beds with large concealed storage.",
+    "Product_Category": "Furniture",
+    "Product_name": "Beds"
+  },
+  {
+    "Customer_Question": "Adjustable or fixed desk—what’s better for long hours?",
+    "Detailed_Response": "For great all day productivity pick adjustable desks that support posture shifts.",
+    "Product_Category": "Furniture",
+    "Product_name": "Work Desks"
+  },
+  {
+    "Customer_Question": "Glass vs wood dining table—what’s more practical?",
+    "Detailed_Response": "Wood is normally low maintenance and sturdier , glass gives you style but tends to be fragile.",
+    "Product_Category": "Furniture",
+    "Product_name": "Dining Tables"
+  },
+  {
+    "Customer_Question": "How do I prevent moisture buildup in wardrobes during monsoons?",
+    "Detailed_Response": "To avoid moisture buildup enusre there sufficient airflow and  also use silica gel pouches",
+    "Product_Category": "Furniture",
+    "Product_name": "Wardrobes"
+  },
+  {
+    "Customer_Question": "How can I protect my dining table from heat damage?",
+    "Detailed_Response": "By placing placemats and trivets on the table while placing hot pots  can prevent heat damage.",
+    "Product_Category": "Furniture",
+    "Product_name": "Dining Tables"
+  },
+  {
+    "Customer_Question": "How do I know if this product is original or certified?",
+    "Detailed_Response": "Products are sources only from verified brand and sellers.For your confirmation look for a 100% authentic badge on the product.",
+    "Product_Category": "general",
+    "Product_name": "Product Discovery"
+  },
+  {
+    "Customer_Question": "Are there any promo codes I can apply?",
+    "Detailed_Response": "Please check the product page to know the available offers and apply the available coupons at checkout ",
+    "Product_Category": "general",
+    "Product_name": "Payments"
+  },
+  {
+    "Customer_Question": "Why am I being charged for shipping?",
+    "Detailed_Response": "Orders which are below a minimum value tend to have a shipping fee",
+    "Product_Category": "general",
+    "Product_name": "Cart & Checkout"
+  },
+  {
+    "Customer_Question": "Is this model better than the older one?",
+    "Detailed_Response": "Newer models normally have improved efficiency because of better features and design.",
+    "Product_Category": "general",
+    "Product_name": "Product Comparison"
+  },
+  {
+    "Customer_Question": "Can I change the delivery address after placing the order?",
+    "Detailed_Response": "If you want to change the address, the order must be cancelled and reordered , otherwise changing the delivery address is not possible",
+    "Product_Category": "general",
+    "Product_name": "Orders & Delivery"
+  },
+  {
+    "Customer_Question": "I received a damaged product. What should I do?",
+    "Detailed_Response": "A return/replacement request must be placed from your account within 24-48 hours with photos.",
+    "Product_Category": "general",
+    "Product_name": "Returns & Cancellations"
+  },
+  {
+    "Customer_Question": "How can I track my order?",
+    "Detailed_Response": "Go to “My Orders” > Select your order > Click on “Track Shipment” for real-time updates.",
+    "Product_Category": "general",
+    "Product_name": "Orders & Delivery"
+  },
+  {
+    "Customer_Question": "How do I register my appliance for warranty?",
+    "Detailed_Response": "While some brands offer auto registration, you can always go to the brands official website or customer care.",
+    "Product_Category": "general",
+    "Product_name": "Warranty & Support"
+  },
+  {
+    "Customer_Question": "Which phone under ₹20,000 offers the best camera and battery?",
+    "Detailed_Response": "For great everyday photography cameras with 50MP AI, 5000mAh battery and AMOLED display will be a good fit ",
+    "Product_Category": "Electronics",
+    "Product_name": "Smartphones"
+  },
+  {
+    "Customer_Question": "Which budget laptop is good for students and daily tasks?",
+    "Detailed_Response": "HP 15s (Intel i3 11th Gen, 8GB, 512GB SSD) is light , fast, and reliable for browsing, streaming and assignments.",
+    "Product_Category": "Electronics",
+    "Product_name": "Laptops"
+  },
+  {
+    "Customer_Question": "What’s the difference between ANC and ENC?",
+    "Detailed_Response": "ENC clears voice during calls and ANC blocks ambient noise during music.",
+    "Product_Category": "Electronics",
+    "Product_name": "Wireless Earbuds"
+  },
+  {
+    "Customer_Question": "Is 4K really useful on smaller screens like 43 inches?",
+    "Detailed_Response": "Colours tend to pop and details appear sharper if you stream in 4K",
+    "Product_Category": "Electronics",
+    "Product_name": "Smart TVs"
+  },
+  {
+    "Customer_Question": "How do I expand storage on my console?",
+    "Detailed_Response": "Use external drives via USB 3.0 or compatible SSD expansion cards.",
+    "Product_Category": "Electronics",
+    "Product_name": "Gaming Consoles"
+  },
+  {
+    "Customer_Question": "How do I sync my smartwatch with my phone?",
+    "Detailed_Response": "After downloading the brand's app switch on bluetooth and follow pairing instructions.",
+    "Product_Category": "Electronics",
+    "Product_name": "Smartwatches"
+  },
+  {
+    "Customer_Question": "What’s a good moisturizer for oily, acne-prone skin?",
+    "Detailed_Response": "Neutrogena Hydro Boost Water Gel is lightweight , non-comedogenic and hydrates without clogging pores and is great for oily skin.",
+    "Product_Category": "Personal Care",
+    "Product_name": "Skincare – Moisturizers"
+  },
+  {
+    "Customer_Question": "Which shampoo helps with dandruff but doesn't dry out hair?",
+    "Detailed_Response": "Head & Shoulders Supreme Scalp Soothing Shampoo targets dandruff while keeping hair nourished and soft as it is infused with Argan oil.",
+    "Product_Category": "Personal Care",
+    "Product_name": "Haircare – Shampoos"
+  },
+  {
+    "Customer_Question": "Should I buy a lotion or a body butter for winter?",
+    "Detailed_Response": "For harsh winters or dry skin, body butters are better because they are thicker and more nourishing.",
+    "Product_Category": "Personal Care",
+    "Product_name": "Body Care – Body Lotions"
+  },
+  {
+    "Customer_Question": "Should I go for a foaming or cream-based cleanser?",
+    "Detailed_Response": "For dry or sensitive skin types cream-based cleanser should be preferred and for oily skin foaming is a good choice.",
+    "Product_Category": "Personal Care",
+    "Product_name": "Face Wash / Cleansers"
+  },
+  {
+    "Customer_Question": "How often should I oil the trimmer blades?",
+    "Detailed_Response": "For smooth trimming and longer blade life , blade oil must be applied once every 1-2 weeks",
+    "Product_Category": "Personal Care",
+    "Product_name": "MEN'S GROOMING – Beard & Skincare"
+  },
+  {
+    "Customer_Question": "When should I replace the brush head?",
+    "Detailed_Response": "Normally once in 3 months, but can be replaced sooner if the bristles looks frayed.",
+    "Product_Category": "Personal Care",
+    "Product_name": "ORAL CARE – Toothpaste & Electric Brushes"
+  },
+  {
+    "Customer_Question": "What are the best educational toys for 2–3-year-olds?",
+    "Detailed_Response": "Through fun, music and interaction the Fisher-Price Laugh & Learn Smart Stages Puppy toy teaches alphabets, colours and emotions.",
+    "Product_Category": "TOYS, KIDS & BABY PRODUCTS",
+    "Product_name": "Toys"
+  },
+  {
+    "Customer_Question": "Which school bag is light and spacious for a 6-year-old?",
+    "Detailed_Response": "A bag with multiple compartments, fun print and ergonomic straps make it school ready and comfortable ",
+    "Product_Category": "TOYS, KIDS & BABY PRODUCTS",
+    "Product_name": "School Supplies & Bags"
+  },
+  {
+    "Customer_Question": "Is this bottle sterilizer-safe?",
+    "Detailed_Response": "The bottle is BPA-free and is compatible with standard sterilizers and microwaves",
+    "Product_Category": "TOYS, KIDS & BABY PRODUCTS",
+    "Product_name": "Feeding Bottles & Accessories"
+  },
+  {
+    "Customer_Question": "Does this stroller recline for naps?",
+    "Detailed_Response": "The stroller offers cushioned seating and multi-position recline for comfortable naps.",
+    "Product_Category": "TOYS, KIDS & BABY PRODUCTS",
+    "Product_name": "Strollers / Prams"
+  },
+  {
+    "Customer_Question": "How do I safely put on the carrier alone?",
+    "Detailed_Response": "To safely put on a carrier, stand or sit in front of a mirror, secure your waist and then place the baby slowly and clip the shoulder straps.",
+    "Product_Category": "TOYS, KIDS & BABY PRODUCTS",
+    "Product_name": "Baby Carriers"
+  },
+  {
+    "Customer_Question": "How often should I clean the feeding tray?",
+    "Detailed_Response": "Must be washed everyday using baby-safe soap or mild disinfectant.",
+    "Product_Category": "TOYS, KIDS & BABY PRODUCTS",
+    "Product_name": "Baby High Chairs"
+  }
+]
